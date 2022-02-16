@@ -30,7 +30,6 @@ if __name__ == '__main__':
 
   <div align="center" style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=PersoSirEduard&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PersoSirEduard&layout=compact" alt="GitHub Stats" style="height: auto;" />
   </div>
 
 
