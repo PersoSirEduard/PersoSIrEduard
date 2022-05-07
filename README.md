@@ -1,13 +1,13 @@
-# Good evening, visitor. I'm **Eduard Anton**. 👋
+# Good evening, visitor. I'm **Eduard**. 👋
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=PersoSirEduard.visitor-badge&left_text=Fellow+Viewers+Count) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
 ## ***About me***
 
 ```python
-class EduardAnton():
+class Eduard():
     
   def __init__(self):
-    self.name = "Eduard Anton"
+    self.name = "Eduard"
     self.location = "Montreal, CA"
     self.major = "Software Engineering, McGill University"
     self.languages = [
@@ -24,7 +24,7 @@ class EduardAnton():
     return self.name
 
 if __name__ == '__main__':
-    me = EduardAnton()
+    me = Eduard()
 ```
 
 
