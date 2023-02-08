@@ -15,6 +15,7 @@ class Eduard():
       "Python",
       "JavaScript",
       "Go",
+      "Rust",
       "C/C++",
       "HTML",
       "CSS"
