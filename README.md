@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=PersoSirEduard&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
-Hello, I'm Eduard. I'm an undergraduate student in Software Engineering at McGill University. My expertise lies in web development, machine learning, network programming, and systems programming.
+Hello, I'm Eduard. I'm an undergraduate student in Software Engineering at McGill University. My expertise and interests lie in `web development`, `machine learning`, `network programming`, and `systems programming`.
 
 I'm also a co-founder at LiveGuard.
 <p><img alt="Static Badge" src="https://img.shields.io/badge/LiveGuard-blue?style=for-the-badge&link=https%3A%2F%2Fliveguard.ca">
