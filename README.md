@@ -10,7 +10,7 @@ Oh, I almost forgot! I'm also a co-founder at LiveGuard.
 </p>
 
 ## 🛠️ **Tools that I use**
-* **Languages**: C/C++, Python, Java, Go, HTML, CSS, JavaScript, SQL, Matlab, and OCaml
+* **Languages**: C/C++, Python, Java, Go, HTML, CSS, JavaScript, SQL, Matlab, OCaml, and Dart
 * **Databases**: PostgreSQL, MongoDB, and MySQL
 * **Web frameworks**: React, Vue.js, Svelte, and Electron
 * **Machine learning**: PyTorch, Tensorflow, Scikit-learn, OpenCV, Numpy, and Pandas
